@@ -22,3 +22,13 @@ Run Tests in CI/CD Pipeline
 
 
 Link to Calliope.pro
+
+
+Scenario Selection:
+
+[Risk based Approach - each software I asked a few questions to help me determine risk, I had to make a few assumptions but was happy with the selection]
+
+
+![image](https://user-images.githubusercontent.com/36734593/148464070-33768ac5-dc8a-40c8-8890-72f1f74750e0.png)
+
+![image](https://user-images.githubusercontent.com/36734593/148464151-5545bd40-9916-4fd5-8b48-946ebe58b64b.png)
