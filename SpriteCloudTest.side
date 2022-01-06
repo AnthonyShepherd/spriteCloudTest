@@ -1,0 +1,332 @@
+{
+  "id": "b7266a55-eb1d-4f8c-9a32-48142975bdd2",
+  "version": "2.0",
+  "name": "SpriteCloudTest",
+  "url": "https://demoqa.com",
+  "tests": [{
+    "id": "4cd4d65b-a535-45a4-99d9-1ac5f53494c3",
+    "name": "ToolsQA Home Logo (Button)",
+    "commands": [{
+      "id": "97b1bb8a-bffd-4362-8564-0fb6809acd0e",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6d5ab02c-ad9d-4b77-9500-79e513b0c639",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x691",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "977479ca-08ad-422e-b2b5-e5b27bb61266",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card:nth-child(1) .card-up",
+      "targets": [
+        ["css=.card:nth-child(1) .card-up", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div/div/div/div", "xpath:idRelative"],
+        ["xpath=//div/div[2]/div/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "471a13db-1297-4613-b573-90380e5698ae",
+      "comment": "",
+      "command": "click",
+      "target": "css=header img",
+      "targets": [
+        ["css=header img", "css:finder"],
+        ["xpath=//div[@id='app']/header/a/img", "xpath:idRelative"],
+        ["xpath=//header/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "17f67215-144f-441a-905f-4ef718a6bd4a",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.banner-image",
+      "targets": [
+        ["css=.banner-image", "css:finder"],
+        ["xpath=//img[@alt='Selenium Online Training']", "xpath:img"],
+        ["xpath=//div[@id='app']/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "aa0658b5-af92-4df1-8745-ccb5f421ca6c",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.banner-image",
+      "targets": [
+        ["css=.banner-image", "css:finder"],
+        ["xpath=//img[@alt='Selenium Online Training']", "xpath:img"],
+        ["xpath=//div[@id='app']/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d1f8b0b6-547b-4b59-9d2b-bb9e9b9b5ecc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card:nth-child(6) > div",
+      "targets": [
+        ["css=.card:nth-child(6) > div", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div/div[6]/div", "xpath:idRelative"],
+        ["xpath=//div[6]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3f698118-250e-4207-81aa-7cb87aa528b2",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,253)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3e3cbd88-c847-4f0b-828a-50050a602341",
+      "comment": "",
+      "command": "click",
+      "target": "css=header img",
+      "targets": [
+        ["css=header img", "css:finder"],
+        ["xpath=//div[@id='app']/header/a/img", "xpath:idRelative"],
+        ["xpath=//header/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f35a57ec-16cf-458c-9f3b-b540bf984f16",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.banner-image",
+      "targets": [
+        ["css=.banner-image", "css:finder"],
+        ["xpath=//img[@alt='Selenium Online Training']", "xpath:img"],
+        ["xpath=//div[@id='app']/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cf3d5f5f-b37a-4a08-b341-c000619655d3",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.banner-image",
+      "targets": [
+        ["css=.banner-image", "css:finder"],
+        ["xpath=//img[@alt='Selenium Online Training']", "xpath:img"],
+        ["xpath=//div[@id='app']/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a1fa7c8e-1084-469a-aed4-f5c3c4343b5e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card:nth-child(5) h5",
+      "targets": [
+        ["css=.card:nth-child(5) h5", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div/div[5]/div/div[3]/h5", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div[3]/h5", "xpath:position"],
+        ["xpath=//h5[contains(.,'Interactions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b7ae06ec-21c9-4ba8-806f-45da98348951",
+      "comment": "",
+      "command": "click",
+      "target": "css=header img",
+      "targets": [
+        ["css=header img", "css:finder"],
+        ["xpath=//div[@id='app']/header/a/img", "xpath:idRelative"],
+        ["xpath=//header/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "ecd8b08c-cd7d-437a-9f9b-dd100b34e25d",
+    "name": "Elements > Text Box",
+    "commands": [{
+      "id": "2028cfa7-fa67-459b-bdd1-707e2ee34e03",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "42c1c934-20e3-40ad-ad3e-f62c399a6069",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6f25f521-3864-448f-a916-0e00d6785dae",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card:nth-child(1) .card-body",
+      "targets": [
+        ["css=.card:nth-child(1) .card-body", "css:finder"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div/div/div/div[3]", "xpath:idRelative"],
+        ["xpath=//div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "875a1f02-c2df-4e29-880d-5062ae3fb11d",
+      "comment": "",
+      "command": "click",
+      "target": "id=item-0",
+      "targets": [
+        ["id=item-0", "id"],
+        ["css=.show #item-0", "css:finder"],
+        ["xpath=//li[@id='item-0']", "xpath:attributes"],
+        ["xpath=//div[@id='app']/div/div/div[2]/div/div/div/div/div/ul/li", "xpath:idRelative"],
+        ["xpath=//li", "xpath:position"],
+        ["xpath=//li[contains(.,'Text Box')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6fe51012-7bf8-412e-8956-c74aa3048d5e",
+      "comment": "",
+      "command": "click",
+      "target": "id=userName",
+      "targets": [
+        ["id=userName", "id"],
+        ["css=#userName", "css:finder"],
+        ["xpath=//input[@id='userName']", "xpath:attributes"],
+        ["xpath=//div[@id='userName-wrapper']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f6b05341-485a-40cb-a3c3-1400ac8f196e",
+      "comment": "",
+      "command": "type",
+      "target": "id=userName",
+      "targets": [
+        ["id=userName", "id"],
+        ["css=#userName", "css:finder"],
+        ["xpath=//input[@id='userName']", "xpath:attributes"],
+        ["xpath=//div[@id='userName-wrapper']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Test 1"
+    }, {
+      "id": "28dcc3c9-5f2e-4fe4-8b70-a482197ab985",
+      "comment": "",
+      "command": "type",
+      "target": "id=userEmail",
+      "targets": [
+        ["id=userEmail", "id"],
+        ["css=#userEmail", "css:finder"],
+        ["xpath=//input[@id='userEmail']", "xpath:attributes"],
+        ["xpath=//div[@id='userEmail-wrapper']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div[2]/input", "xpath:position"]
+      ],
+      "value": "Test@Test.com"
+    }, {
+      "id": "794c900e-3cea-45a2-acc5-d9648edd5c5e",
+      "comment": "",
+      "command": "click",
+      "target": "id=currentAddress",
+      "targets": [
+        ["id=currentAddress", "id"],
+        ["css=#currentAddress", "css:finder"],
+        ["xpath=//textarea[@id='currentAddress']", "xpath:attributes"],
+        ["xpath=//div[@id='currentAddress-wrapper']/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de8c517d-7ebe-4b85-9c6f-12a572bdf175",
+      "comment": "",
+      "command": "type",
+      "target": "id=currentAddress",
+      "targets": [
+        ["id=currentAddress", "id"],
+        ["css=#currentAddress", "css:finder"],
+        ["xpath=//textarea[@id='currentAddress']", "xpath:attributes"],
+        ["xpath=//div[@id='currentAddress-wrapper']/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Test World"
+    }, {
+      "id": "a3650cad-d022-43fe-8b26-a0c97105f6f0",
+      "comment": "",
+      "command": "type",
+      "target": "id=permanentAddress",
+      "targets": [
+        ["id=permanentAddress", "id"],
+        ["css=#permanentAddress", "css:finder"],
+        ["xpath=//textarea[@id='permanentAddress']", "xpath:attributes"],
+        ["xpath=//div[@id='permanentAddress-wrapper']/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//div[4]/div[2]/textarea", "xpath:position"]
+      ],
+      "value": "Test World 2"
+    }, {
+      "id": "efdedac8-9ec0-424d-b858-f943a4d370f2",
+      "comment": "",
+      "command": "click",
+      "target": "id=submit",
+      "targets": [
+        ["id=submit", "id"],
+        ["css=#submit", "css:finder"],
+        ["xpath=//button[@id='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='userForm']/div[5]/div/button", "xpath:idRelative"],
+        ["xpath=//div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "386cde8f-02cd-431c-8dc0-e4290621bd13",
+    "name": "Navigate to Join Page",
+    "commands": [{
+      "id": "b82c6d0e-7dcf-41e7-b1bb-f9b0ac7c58c4",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "966c4ae1-76d1-4735-970a-58164eda1e8d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "af1bd3be-100c-4f31-9977-deba11ebd89f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//div[2]/div/div/div/a/img",
+      "targets": [
+        ["css=.banner-image", "css:finder"],
+        ["xpath=//img[@alt='Selenium Online Training']", "xpath:img"],
+        ["xpath=//div[@id='app']/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win1575",
+      "windowTimeout": 2000
+    }, {
+      "id": "a4a059e8-9800-4b33-9e2a-907f872091dc",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win1575}",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "714dc506-6031-47e0-828b-a3d99cdd84e4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4cd4d65b-a535-45a4-99d9-1ac5f53494c3"]
+  }],
+  "urls": ["https://demoqa.com/"],
+  "plugins": []
+}
