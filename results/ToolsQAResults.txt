@@ -1,0 +1,138 @@
+    Running 'ToolsQA Home Logo (Button)'
+    00:22:44
+    1.open on / OK
+    00:22:44
+    2.setWindowSize on 550x691 OK
+    00:22:44
+    3.click on css=.card:nth-child(1) .card-up OK
+    00:22:44
+    4.click on css=header img OK
+    00:22:48
+    5.mouseOver on css=.banner-image OK
+    00:22:48
+    6.mouseOut on css=.banner-image OK
+    00:22:51
+    7.click on css=.card:nth-child(6) > div OK
+    00:22:51
+    8.runScript on window.scrollTo(0,253) OK
+    00:22:51
+    9.click on css=header img OK
+    00:22:51
+    10.mouseOver on css=.banner-image OK
+    00:22:51
+    11.mouseOut on css=.banner-image OK
+    00:22:55
+    12.click on css=.card:nth-child(5) h5 OK
+    00:22:55
+    13.click on css=header img OK
+    00:22:55
+    'ToolsQA Home Logo (Button)' completed successfully
+    00:22:55
+    Running 'Elements > Text Box'
+    00:24:18
+    1.open on / OK
+    00:24:18
+    2.setWindowSize on 1936x1056 OK
+    00:24:18
+    3.click on css=.card:nth-child(1) .card-body OK
+    00:24:19
+    4.click on id=item-0 OK
+    00:24:23
+    5.click on id=userName OK
+    00:24:23
+    6.type on id=userName with value Test 1 OK
+    00:24:23
+    7.type on id=userEmail with value Test@Test.com OK
+    00:24:23
+    8.click on id=currentAddress OK
+    00:24:23
+    9.type on id=currentAddress with value Test World OK
+    00:24:24
+    10.type on id=permanentAddress with value Test World 2 OK
+    00:24:24
+    11.click on id=submit OK
+    00:24:24
+    'Elements > Text Box' completed successfully
+    00:24:24
+    Running 'Navigate to Join Page'
+    00:26:02
+    1.open on / OK
+    00:26:03
+    2.setWindowSize on 1936x1056 OK
+    00:26:03
+    3.click on css=.banner-image Failed:
+    00:26:03
+    Exceeded waiting time for new window to appear 2000ms
+    'Navigate to Join Page' ended with 1 error(s)
+    00:26:09
+    Running 'Elements > Text Box'
+    00:26:53
+    1.open on / OK
+    00:26:53
+    2.setWindowSize on 1936x1056 OK
+    00:26:53
+    3.click on css=.card:nth-child(1) .card-body OK
+    00:26:54
+    4.click on id=item-0 OK
+    00:26:57
+    5.click on id=userName OK
+    00:26:57
+    6.type on id=userName with value Test 1 OK
+    00:26:57
+    7.type on id=userEmail with value Test@Test.com OK
+    00:26:57
+    8.click on id=currentAddress OK
+    00:26:57
+    9.type on id=currentAddress with value Test World OK
+    00:26:57
+    10.type on id=permanentAddress with value Test World 2 OK
+    00:26:58
+    11.click on id=submit OK
+    00:26:58
+    'Elements > Text Box' completed successfully
+    00:26:58
+    Running 'Navigate to Join Page'
+    00:26:58
+    1.open on / OK
+    00:26:58
+    2.setWindowSize on 1936x1056 OK
+    00:26:58
+    3.click on css=.banner-image Failed:
+    00:26:58
+    Playback aborted
+    'Navigate to Join Page' was aborted
+    00:27:27
+    Running 'Navigate to Join Page'
+    00:27:28
+    1.open on / OK
+    00:27:28
+    2.setWindowSize on 1936x1056 OK
+    00:27:28
+    3.click on xpath=//img[@alt='Selenium Online Training'] Failed:
+    00:27:28
+    Playback aborted
+    'Navigate to Join Page' was aborted
+    00:27:55
+    Running 'Navigate to Join Page'
+    00:28:03
+    1.open on / OK
+    00:28:04
+    2.setWindowSize on 1936x1056 OK
+    00:28:04
+    3.click on xpath=//div[2]/div/div/div/a/img Failed:
+    00:28:04
+    Playback aborted
+    'Navigate to Join Page' was aborted
+    00:28:43
+    Running 'Navigate to Join Page'
+    00:28:44
+    1.open on / OK
+    00:28:44
+    2.setWindowSize on 1936x1056 OK
+    00:28:44
+    3.click on xpath=//div[2]/div/div/div/a/img OK
+    00:28:44
+    4.selectWindow on handle=${win1575} OK
+    00:28:47
+    'Navigate to Join Page' completed successfully
+    00:28:47
